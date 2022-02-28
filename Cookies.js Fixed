@@ -1,0 +1,3 @@
+//inspect element
+var cookieAdd = prompt("Any positive number");
+Game.Earn(cookieAdd);
